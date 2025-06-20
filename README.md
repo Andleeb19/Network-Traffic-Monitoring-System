@@ -49,9 +49,6 @@ v
 | - Dashboard via Chart.js|
 +--------------------------+
 
-yaml
-Copy
-Edit
 
 ---
 
